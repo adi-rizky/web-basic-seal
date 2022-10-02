@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(17, 170, 168);
+}
+form{
+    text-align: center;
+    width: 1000px;
+    height: 150px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    width: 200px;
+    margin: auto;
+}
+table, th, td {
+    border: 1px solid;
+    height: 40px;
+    margin: 0 auto;
+    
+  }
+  .skil{
+    text-align: center;
+    margin: auto;
+  }
+  .table{
+    border-bottom: 1px solid #ddd;
+  }
+  .kontak{
+    text-align: center;
+    margin: auto;
+  }
+  p{
+    text-align: center;
+  }
